@@ -18,7 +18,9 @@ export default class App extends Component {
       <Switch>
         <Route  exact path="/" component={ProductList} />
         <Route  exact path="/madlab" component={ProductList} />
+        <Route  exact path="/madlab/details" component={ProductList} />
         <Route path="/details" component={Details}/>
+        <Route  exact path="/madlab/cart" component={ProductList} />
         <Route path="/cart" component={Cart}/>
         <Route component={Default}/>
       </Switch>

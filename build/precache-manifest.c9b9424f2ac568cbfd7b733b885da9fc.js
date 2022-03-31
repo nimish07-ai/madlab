@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab2c91ec40572ae4175e9983f82af13a",
+    "revision": "ae08bb770ae31bb7890425e640093329",
     "url": "/madlab/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/madlab/static/css/2.9be35272.chunk.css"
   },
   {
-    "revision": "c6dace2296fa2d9c7eee",
+    "revision": "e0f953a896702175ca48",
     "url": "/madlab/static/css/main.e0e55565.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/madlab/static/js/2.903e3fb3.chunk.js"
   },
   {
-    "revision": "c6dace2296fa2d9c7eee",
-    "url": "/madlab/static/js/main.d5ec7830.chunk.js"
+    "revision": "e0f953a896702175ca48",
+    "url": "/madlab/static/js/main.4d202d43.chunk.js"
   },
   {
     "revision": "396f417b8273cab40f0e",
