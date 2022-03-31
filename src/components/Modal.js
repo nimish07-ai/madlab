@@ -28,7 +28,7 @@ export default class Modal extends Component {
             <h5>
                 item added to the cart
             </h5>
-            <img src={img} className="img-fluid" alt="product"/>
+            <img src={`/madlab/${img}`} className="img-fluid" alt="product"/>
             <h5>
                 {title}
             </h5>
