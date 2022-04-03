@@ -1,6 +1,7 @@
 {
   "short_name": "Shopping App-Nimish Boda",
-  "name": "A shopping webapp",
+  "description": "Shows random fox pictures. Hey, at least it isn't cats.",
+  "name": "A shopping webapp-Nimish boda",
   "icons": [
     {
       "src": "favicon-16x16.png",

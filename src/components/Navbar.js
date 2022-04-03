@@ -15,7 +15,7 @@ export default class Navbar extends Component{
 https://www.iconfinder.com/icons/1243689/call_phone_icon
 Creative Commons (Attribution 3.0 Unported);
                https://www.iconfinder.com/Makoto_msk */}
-               <Link to = '/'>
+               <Link to = '/madlab'>
                <img src={logo} alt="store" className="navbar-brand"/>
 
                </Link>
@@ -28,7 +28,7 @@ Creative Commons (Attribution 3.0 Unported);
 
                    </li>
                </ul>
-               <Link to='/cart' className="ml-auto">
+               <Link to='/madlab/cart' className="ml-auto">
                    <ButtonContainer>
                     <span className="mr-2">
                     <i className="fas fa-cart-plus" />
