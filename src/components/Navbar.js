@@ -21,7 +21,7 @@ Creative Commons (Attribution 3.0 Unported);
                </Link>
                <ul className="navbar-nav align-items-center">
                    <li className="nav-item ml-5">
-                    <Link to = "/" className="nav-link">
+                    <Link to = "/madlab" className="nav-link">
                         products
 
                     </Link>
@@ -30,7 +30,7 @@ Creative Commons (Attribution 3.0 Unported);
                </ul>
                <Link to='/madlab/cart' className="ml-auto">
                    <ButtonContainer>
-                    <span className="mr-2">
+                    <span className="mr-2" style={{"color":"white"}}  >
                     <i className="fas fa-cart-plus" />
                        my cart 
                     </span>

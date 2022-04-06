@@ -34,7 +34,7 @@ export default class ProductList extends Component{
                 <div className="py-5">
                     <div className="container">
                         
-                            <Title name="our" title=" products"/>
+                            <Title name="our" title=" Electronic products"/>
 
                            
                             <div className="row"> 
